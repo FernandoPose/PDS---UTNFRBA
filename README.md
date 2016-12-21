@@ -1,4 +1,2 @@
 # PDS---UTNFRBA
-Trabajos prácticos de Procesamiento Digital de Señales
-Primera utilización de GitHub
-Probando
+Trabajos prácticos desarrollados a lo largo de la materia: Procesamiento Digital de Señales. Materia electiva dictada en la Universidad Tecnológica Nacional - Facultad Regional Buenos Aires. Departamento Electrónica. Año 2015
